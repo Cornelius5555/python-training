@@ -31,7 +31,7 @@ print(my_ds)
 #Reverse 987 to 789 without using an inbuilt -method or Assigning 789 manually.
  #    Hint: Strings can be reversed using [::]
 my_ds[4] = str(my_ds[4])
-print(my_ds[4][2::-1])
+print(my_ds[4][::-1])
 
 
 
