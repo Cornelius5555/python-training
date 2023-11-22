@@ -37,3 +37,5 @@ if (temp >= 30):
     print("Temp is too high")
 else:
     print("Normal temp")
+
+
